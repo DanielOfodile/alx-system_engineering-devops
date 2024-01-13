@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%beschol" "$((water#$WATER+stir#$STIR))"
